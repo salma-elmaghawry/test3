@@ -1,5 +1,12 @@
 hello
 world
 welcome
+<<<<<<< HEAD
 
 Add_Again(Amin)
+=======
+HELLO world 
+how are you
+>>>>>>> b4a1d4391a01681ab78bd98513c33ca581e8eb95
+
+What is the difference between 
