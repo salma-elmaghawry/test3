@@ -2,3 +2,5 @@ hello
 world
 welcome
 //addd(Amin)
+
+cout<<"Hello World"
